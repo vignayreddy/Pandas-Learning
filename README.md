@@ -1,1 +1,1 @@
-Learn Basics of Python Pandas
+Learn Basics of Python Numpy and Pandas
